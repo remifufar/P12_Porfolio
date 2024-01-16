@@ -442,8 +442,8 @@ const Portfolio = () => {
                     </li>
                     <li>
                       <span className="first">Share</span>
-                      <a className="" href="https://github.com/remifufar/Dubar_r-mi_1_codebooki_042023.git" target="_blank"><AiFillGithub className="Giticons"/></a>
-                      <a className="" href="https://remifufar.github.io/Dubar_r-mi_1_codebooki_042023/" target="_blank"><AiFillRead className="Giticons"/></a>
+                      <a className="" href="https://github.com/remifufar/Dubar_r-mi_1_codebooki_042023.git" target="_blank"> <img src="assets/img/portfolio/github-logo.webp" alt="ihih" />   </a>
+                      <a className="" href="https://remifufar.github.io/Dubar_r-mi_1_codebooki_042023/" target="_blank"> Visualisé  </a>
                     </li>
                   </ul>
                 </div>
