@@ -293,12 +293,12 @@ const Portfolio = () => {
                               src="assets/img/portfolio/77/724-Events.webp"
                               alt="Details"
                               data-tip
-                              data-for="detail7"
+                              data-for="detail9"
                               onClick={toggleModalHeigt}
                             />
 
                             <ReactTooltip
-                              id="detail7"
+                              id="detail9"
                               place="bottom"
                               type="light"
                               effect="float"
@@ -1036,7 +1036,7 @@ const Portfolio = () => {
                 <div
                   className="main"
                   style={{
-                    backgroundImage: "url(assets/img/portfolio/it/Printit-project.webp)",
+                    backgroundImage: "url(assets/img/portfolio/it/Print-It.webp)",
                   }}
                 ></div>
               </div>
@@ -1281,7 +1281,7 @@ const Portfolio = () => {
                 <div
                   className="main"
                   style={{
-                    backgroundImage: "url(assets/img/portfolio/ohmy/ohmyfood-project.webp)",
+                    backgroundImage: "url(assets/img/portfolio/77/screenShot724Event.webp)",
                   }}
                 ></div>
               </div>
