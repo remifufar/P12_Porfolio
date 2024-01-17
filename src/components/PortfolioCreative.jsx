@@ -169,7 +169,7 @@ const Portfolio = () => {
                         <div className="inner">
                           <div className="entry tokyo_tm_portfolio_animation_wrap">
                             <img
-                              src="assets/img/portfolio/sophie/Sophie-bluel.webp"
+                              src="assets/img/portfolio/sophie/sophieBluel.webp"
                               alt="Details"
                               data-tip
                               data-for="detail4"
@@ -912,7 +912,7 @@ const Portfolio = () => {
                 <div
                   className="main"
                   style={{
-                    backgroundImage: "url(assets/img/portfolio/sophie/SophieBluel.webp)",
+                    backgroundImage: "url(assets/img/portfolio/sophie/accueil-01.webp)",
                   }}
                 ></div>
               </div>
