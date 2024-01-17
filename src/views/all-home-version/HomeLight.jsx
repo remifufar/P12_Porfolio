@@ -27,7 +27,7 @@ const HomeLight = () => {
       <PageTitle title="Home Regular" />
       {/* End page title for seo */}
 
-      <button className="theme-switcher-label" onClick={toggleDarkMode}>
+      <button className="theme-switcher-label" aria-label="My button" onClick={toggleDarkMode}>
         {isDarkMode ? (
           <>
             <FaSun />

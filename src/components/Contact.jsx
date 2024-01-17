@@ -51,7 +51,7 @@ const Contact = () => {
             <div className="title_flex">
               <div className="left">
                 <span>Contact</span>
-                <h3>Get in Touch</h3>
+                <h1>Contact</h1>
               </div>
             </div>
           </div>
@@ -68,20 +68,19 @@ const Contact = () => {
               onSubmit={sendEmail}
             >
               <div className="first">
+              
                 <ul>
                   <li>
-                    <input
-                      type="text"
-                      name="name"
-                      placeholder="Name"
-                      required
-                    />
+                  <label htmlFor="name" className="form-label">Name:</label>
+                  <input type="text" id="name" name="name" placeholder="Name" required/>
                   </li>
                   {/* END FIRST NAME */}
 
                   <li>
-                    <input
+                  <label htmlFor="email" className="form-label">Email:</label>
+                    <input 
                       type="email"
+                      id="email"
                       name="user_email"
                       placeholder="Email"
                       required
@@ -90,8 +89,11 @@ const Contact = () => {
                   {/* END EMAIL */}
 
                   <li>
+                  <label htmlFor="message" className="form-label">Message:</label>
                     <textarea
                       name="message"
+                      type="text"
+                      id="message"
                       placeholder="Message"
                       required
                     ></textarea>

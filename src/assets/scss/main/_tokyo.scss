@@ -34,7 +34,7 @@ body {
   word-wrap: break-word;
   font-weight: 400;
   background-color: #fff;
-  color: #767676;
+  
   box-sizing: border-box;
 }
 svg {
@@ -323,14 +323,14 @@ h6 {
 }
 .tokyo_tm_all_wrap .leftpart .copyright p {
   font-size: 15px;
-  color: #999;
+  
   font-family: "Montserrat";
   line-height: 25px;
   font-style: italic;
 }
 .tokyo_tm_all_wrap .leftpart .copyright a {
   text-decoration: none;
-  color: #787878;
+  
   font-weight: 500;
   padding-left: 5px;
 
@@ -482,9 +482,10 @@ h6 {
 }
 .tokyo_tm_home .details .job {
   font-family: "Montserrat";
-  font-weight: 500;
+  font-weight: 700;
   max-width: 450px;
   margin-bottom: 20px;
+  
 }
 .tokyo_tm_home .social {
   width: 100%;
@@ -848,7 +849,7 @@ h6 {
 .tokyo_tm_portfolio .portfolio_filter .react-tabs__tab-list li {
   margin: 0px 25px 0px 0px;
   text-decoration: none;
-  color: #767676;
+  
   display: inline-block;
   font-weight: 500;
   font-family: "Montserrat";
@@ -2247,5 +2248,22 @@ body.modal {
   svg {
     width: 20px;
     height: 20px;
+  }
+}
+.link-projet{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  gap: 10px;
+  width: 80px;
+  a{
+    border: 1px solid rgb(93, 220, 14);
+    text-decoration: none;
+    color:rgb(93, 220, 14);
+    font-size: 15px;
+  }
+  :hover{
+    border: 1px solid red;
+    color: red;
   }
 }

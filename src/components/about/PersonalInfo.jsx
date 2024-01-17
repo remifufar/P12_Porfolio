@@ -24,11 +24,10 @@ const PersonalInfo = () => {
         {
           id: 4,
           name: "Email",
-          content: (
-            <>
-              <a href="mailto:rd.dubar@gmail.com">rd.dubar@gmail.com</a>
-            </>
-          ),
+          content: "rd.dubar@gmail.com"
+            
+            
+          
         },
         
       ],
@@ -38,22 +37,22 @@ const PersonalInfo = () => {
       colClass: "right",
       info: [
         {
-          id: 1,
+          id: 5,
           name: "Nationality",
           content: "Française",
         },
         {
-          id: 2,
+          id: 6,
           name: "Study",
           content: "OpenClassRooms",
         },
         {
-          id: 3,
+          id: 7,
           name: "Degree",
           content: "BTS",
         },
         {
-          id: 4,
+          id: 8,
           name: "Interest",
           content: "Jeux Vidéo",
         },

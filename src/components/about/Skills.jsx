@@ -23,27 +23,27 @@ const Skills = () => {
           skillValue: "65",
         },
          {
-          id: 1,
+          id: 4,
           skillName: "Sass",
           skillValue: "80",
         },
         {
-          id: 2,
+          id: 5,
           skillName: "React",
           skillValue: "70",
         },
         {
-          id: 3,
+          id: 6,
           skillName: "Rédux",
           skillValue: "55",
         },
         {
-          id: 4,
+          id: 7,
           skillName: "VsCode",
           skillValue: "75",
         },
         {
-          id: 5,
+          id: 8,
           skillName: "Swagger",
           skillValue: "50",
         },
