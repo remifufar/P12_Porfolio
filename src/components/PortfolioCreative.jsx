@@ -484,7 +484,7 @@ const Portfolio = () => {
                         <div
                           className="main"
                           style={{
-                            backgroundImage: "url(assets/img/portfolio/2.jpg)",
+                            backgroundImage: "",
                           }}
                         ></div>
                       </div>
@@ -498,7 +498,7 @@ const Portfolio = () => {
                         <div
                           className="main"
                           style={{
-                            backgroundImage: "url(assets/img/portfolio/3.jpg)",
+                            backgroundImage: "",
                           }}
                         ></div>
                       </div>
@@ -622,7 +622,7 @@ const Portfolio = () => {
                         <div
                           className="main"
                           style={{
-                            backgroundImage: "url(assets/img/portfolio/3.jpg)",
+                            backgroundImage: "",
                           }}
                         ></div>
                       </div>
@@ -734,7 +734,7 @@ const Portfolio = () => {
                         <div
                           className="main"
                           style={{
-                            backgroundImage: "url(assets/img/portfolio/5.jpg)",
+                            backgroundImage: "",
                           }}
                         ></div>
                       </div>
@@ -748,7 +748,7 @@ const Portfolio = () => {
                         <div
                           className="main"
                           style={{
-                            backgroundImage: "url(assets/img/portfolio/4.jpg)",
+                            backgroundImage: "",
                           }}
                         ></div>
                       </div>
@@ -1000,7 +1000,7 @@ const Portfolio = () => {
                         <div
                           className="main"
                           style={{
-                            backgroundImage: "url(assets/img/portfolio/sophie/Modal-Ajout.webp)",
+                            backgroundImage: "",
                           }}
                         ></div>
                       </div>
