@@ -912,7 +912,7 @@ const Portfolio = () => {
                 <div
                   className="main"
                   style={{
-                    backgroundImage: "url(assets/img/portfolio/sophie/Sophie-bluel.webp)",
+                    backgroundImage: "url(assets/img/portfolio/sophie/SophieBluel.webp)",
                   }}
                 ></div>
               </div>
