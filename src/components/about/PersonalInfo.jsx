@@ -14,7 +14,7 @@ const PersonalInfo = () => {
         {
           id: 2,
           name: "Age",
-          content: "33",
+          content: "34",
         },
         {
           id: 3,
